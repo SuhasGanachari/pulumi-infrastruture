@@ -1,0 +1,6 @@
+name: pulumi-aws-infra
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Pulumi project that creates a simple AWS VPC and EC2 instance.
